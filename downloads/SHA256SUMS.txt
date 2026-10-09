@@ -1,0 +1,2 @@
+41717726c5e64e2ecb5103ed730a826f0390b6baf7a66fafd68d09209aa5c4d4  GdrFrameEditor-source.zip
+92519700ac70de4fcabe3bd64af48872b144f77b7cf6d74be4aee7088a58070d  GdrFrameEditor-win-x64.zip
